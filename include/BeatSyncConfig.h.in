@@ -1,0 +1,3 @@
+#define BeatSync_VERSION_MAJOR @BeatSync_VERSION_MAJOR@
+#define BeatSync_VERSION_MINOR @BeatSync_VERSION_MINOR@
+#define BeatSync_VERSION_PATCH @BeatSync_VERSION_PATCH@
